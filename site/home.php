@@ -1318,7 +1318,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     echo '<div class="overlay-imagem">
                             <a href="https://www.instagram.com/JOELMAALPINOOFICIAL" target="_blank">
                                 @JOELMAALPINOOFICIAL
-                                <img src="NailPhotos/instagram.svg" alt="Instagram">
+                                <img src="NailPhotos/essept2.png" alt="Instagram">
                             </a>
                         </div>';
                     echo '</div>';
